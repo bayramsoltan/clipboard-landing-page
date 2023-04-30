@@ -20,26 +20,6 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-### What I learned
-
-```html
-<h1>Flexbox, Responsive Web design</h1>
-```
-```css
-.proud-of-this-css {
-  transform:translate(50,50);
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Created by - [Bayram Soltanov]
@@ -48,3 +28,11 @@ const proudOfThisFunc = () => {
 **Note: You can improve source codes if you want to.**
 
 **Have fun buildings!** 🚀
+
+### What I learned
+
+```html
+ <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+<!--how to give favicon to pages  >
+```
+
